@@ -1,7 +1,7 @@
 using log4net;
 using log4net.Config;
 
-namespace FrameWork
+namespace TestAutomation
 {
     public class Logger
     {
