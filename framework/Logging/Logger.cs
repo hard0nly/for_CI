@@ -1,7 +1,7 @@
 using log4net;
 using log4net.Config;
 
-namespace TestAutomation
+namespace TestAutomation.Logging
 {
     public class Logger
     {
